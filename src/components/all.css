@@ -1,0 +1,24 @@
+.frm
+{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 30vh;
+}
+.it
+{
+    height: auto;
+    width:auto;
+    display: inline-block;
+    text-align: center;
+    background-color: aqua;
+    padding: 5px;
+    margin: 10px;
+}
+.head
+{
+    height: 70px;
+    background-color: #0E0F0F;
+    color:orange;
+    
+}
