@@ -26,7 +26,7 @@ class App extends React.Component {
   render(){
   return (
     <div className="App">
-      <div className="App-header"><h1>To Do List</h1></div>
+      <div className="#64b5f6 blue lighten-2"><h1>To Do List</h1></div>
       <Display items={this.state.items} delEvent={this.delEvent}/>
       <Add addEvent={this.addEvent}></Add>
     </div>
